@@ -86,12 +86,7 @@ const CONFIG = {
     'Java',
     'C/C++',
     'MySQL',
-    '',
-    '',
-    '',
-    '',
-    '',
-    '',
+    'Bootstrap',
     'Tailwind',
   ],
   experiences: [

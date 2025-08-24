@@ -79,19 +79,19 @@ const CONFIG = {
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
+    'Python',
+    'HTML',
     'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
     'CSS',
-    'Antd',
+    'Java',
+    'C/C++',
+    'MySQL',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
     'Tailwind',
   ],
   experiences: [
@@ -219,11 +219,11 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
+  footer: `<a 
+      class="text-primary" href="https://github.com/Alisher143"
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+    >MyGithub</a> and ❤️`,
 
   enablePWA: true,
 };
